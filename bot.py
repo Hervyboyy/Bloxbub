@@ -23,4 +23,4 @@ async def load():
 
 
 
-client.run("MTEyMTIyMDg3ODk4MjcyMTYzNg.GbRovN.jEgU6bcvVaHvL62r0lqnMJAMoLq58lspXg9KFY")
+client.run("")
